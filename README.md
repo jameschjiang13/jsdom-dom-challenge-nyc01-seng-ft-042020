@@ -42,3 +42,5 @@ If you're not sure how to create or pause a timer, look into:
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/jsdom-dom-challenge'>DOM Challenge</a> on Learn.co and start learning to code for free.</p>
+
+Hoho
